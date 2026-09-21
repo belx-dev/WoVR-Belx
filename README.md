@@ -1,6 +1,6 @@
 # About This Repo
 
-Fork of the original WoVR mod by [ProjectMimer](https://github.com/ProjectMimer/WoVR), which received last update in April 2024. It aim is to clean up the code, fix some of the bugs present in the original mod, and, in the future, maybe even add few extra features.
+Personal fork of the original WoVR mod by [ProjectMimer](https://github.com/ProjectMimer/WoVR), which received last update in April 2024. I've crated it to fix some of the bugs present in the original mod, and, in the future, maybe even add few extra features.
 
 Full credit goes to ProjectMimer for their original work.
 
